@@ -1,0 +1,6 @@
+#!/bin/bash
+
+case $1 in
+	"rm_sec")echo -e "cd files\nrm secret"
+		;;
+esac
